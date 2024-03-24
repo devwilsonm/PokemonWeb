@@ -1,3 +1,5 @@
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css');
+
 :root {
     margin: 0;
     padding: 0;
@@ -127,4 +129,10 @@ img {
     z-index: 1;
     background-image: "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css";
 
+}
+
+input{
+    font-size: 2rem;
+    border-radius: 15px;
+    margin: 5px;
 }
